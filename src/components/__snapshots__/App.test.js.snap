@@ -18,9 +18,12 @@ ShallowWrapper {
     "nodeType": "host",
     "props": Object {
       "children": Array [
-        <h2>
-          Gift Giver
-</h2>,
+        <h1>
+          Happy Holidays 🎄
+</h1>,
+        <h3>
+          Build Your Gift List 🎁
+</h3>,
         <div
           className="gift-list"
 >
@@ -38,6 +41,7 @@ ShallowWrapper {
           Add Gift
 </Button>,
       ],
+      "className": "app-background",
     },
     "ref": null,
     "rendered": Array [
@@ -46,11 +50,22 @@ ShallowWrapper {
         "key": undefined,
         "nodeType": "host",
         "props": Object {
-          "children": "Gift Giver",
+          "children": "Happy Holidays 🎄",
         },
         "ref": null,
-        "rendered": "Gift Giver",
-        "type": "h2",
+        "rendered": "Happy Holidays 🎄",
+        "type": "h1",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "Build Your Gift List 🎁",
+        },
+        "ref": null,
+        "rendered": "Build Your Gift List 🎁",
+        "type": "h3",
       },
       Object {
         "instance": null,
@@ -92,9 +107,12 @@ ShallowWrapper {
       "nodeType": "host",
       "props": Object {
         "children": Array [
-          <h2>
-            Gift Giver
-</h2>,
+          <h1>
+            Happy Holidays 🎄
+</h1>,
+          <h3>
+            Build Your Gift List 🎁
+</h3>,
           <div
             className="gift-list"
 >
@@ -112,6 +130,7 @@ ShallowWrapper {
             Add Gift
 </Button>,
         ],
+        "className": "app-background",
       },
       "ref": null,
       "rendered": Array [
@@ -120,11 +139,22 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "host",
           "props": Object {
-            "children": "Gift Giver",
+            "children": "Happy Holidays 🎄",
           },
           "ref": null,
-          "rendered": "Gift Giver",
-          "type": "h2",
+          "rendered": "Happy Holidays 🎄",
+          "type": "h1",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Build Your Gift List 🎁",
+          },
+          "ref": null,
+          "rendered": "Build Your Gift List 🎁",
+          "type": "h3",
         },
         Object {
           "instance": null,
