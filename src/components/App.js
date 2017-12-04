@@ -31,8 +31,9 @@ class App extends Component {
 
     render() {
         return (
-            <div>
-                <h2>Gift Giver</h2>
+            <div className="app-background">
+                <h1>Happy Holidays 🎄</h1>
+                <h3>Build Your Gift List 🎁</h3>
                 <div className='gift-list'>
                     {
                         this.state.gifts.map(gift => {
